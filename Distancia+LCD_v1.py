@@ -1,3 +1,4 @@
+#modificacio per demo github 12 octubre
 import RPi.GPIO as GPIO
 import time
 
